@@ -18,18 +18,6 @@ This project also demonstrates:
 
 ---
 
-## 🧙‍♂️ Supported Moods
-
-| Mood     | Fortune Preview                                                                 |
-|----------|----------------------------------------------------------------------------------|
-| happy    | You're glowing with joy! Keep spreading happiness, Balaji!                      |
-| sad      | It's okay to feel down. Better days are coming, Mirthipati.                    |
-| neutral  | Life might feel plain now, but surprises are ahead!                             |
-| excited  | Your energy is contagious! Big adventures await you.                            |
-| stressed | Breathe, relax, and trust the process. You’re doing great, Krishna!             |
-| angry    | Your fire can be your strength — just channel it wisely, Chinni!                |
-
----
 
 ## 🚀 Releases
 
