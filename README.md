@@ -38,9 +38,3 @@ This project uses **GitHub Actions** to automatically create a release when a ta
 
 ---
 
-## 🛠️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mchkbalaji/MyFortuneTeller.git
-   cd MyFortuneTeller
